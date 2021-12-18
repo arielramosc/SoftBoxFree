@@ -39,4 +39,4 @@ jobs:
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "softboxfree"
-          heroku_email: "arrace@gmail.com.com"
+          heroku_email: "arrace@gmail.com"
